@@ -10,7 +10,7 @@ Este projeto é uma aplicação web simples para organizar um jogo de Amigo Secr
 2. **Lista de Participantes**:
    - Todos os nomes adicionados são exibidos em uma lista abaixo do campo de entrada.
 
-3. **Sortear**:
+3. **Sortear**:       
    -Quando terminar de colocar os nomes na lista você pode sortear um nome.
   
 4. **Layout Responsivo**:
